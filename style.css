@@ -1,0 +1,17 @@
+body > h1 {
+   font-family: 'Times New Roman', Times, serif;
+   background-color: rgb(152, 112, 189);
+   margin: auto;
+  text-align: center;
+
+}
+
+body > h2{
+   font-family: 'Courier New', Courier, monospace;
+   color: rgb(118, 0, 0);
+   text-align: center;
+}
+
+body{
+   background-color: black;
+}
