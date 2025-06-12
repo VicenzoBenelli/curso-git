@@ -19,8 +19,9 @@ body {
 
 .header-title {
   font-size: 3rem;
+  font-weight: bold;
   color: #ff0000;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
 
 .header-subtitle {
